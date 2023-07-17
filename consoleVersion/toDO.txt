@@ -1,0 +1,4 @@
+- test and find optimum console window attributes and set them before starting the app
+- update to recognize, refreash and use local data in the most efficient way possible
+- bug test and fix errors
+- ...
