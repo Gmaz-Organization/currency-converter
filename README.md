@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/v/release/Gmaz-Organization/currency-converter?style=flat-square&color=red)
 
 # currency-converter
-  - Currency converter CV and GUI app in Python
+  - Currency converter CLI and GUI app in Python
   - Using customTkinter by Tom Schimansky: https://customtkinter.tomschimansky.com/
   - Made mid 2022
 
