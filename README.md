@@ -18,7 +18,7 @@
 - Get real time conversion rates for more than 20 currencies
 - Get data for conversion rates in the past
 - Show and visualise data on a graph up to 365 days
-- white and dark mode switch
+- White and dark mode switch
 
 
 ## Authors
