@@ -1,6 +1,6 @@
 ![](https://img.shields.io/github/license/Gmaz-Organization/currency-converter?style=flat-square)
 ![](https://img.shields.io/github/downloads/Gmaz-Organization/currency-converter/total?style=flat-square)
-![](https://img.shields.io/github/repo-size/Gmaz-Organization/currency-converter?style=flat-square)
+![](https://img.shields.io/github/languages/code-size/Gmaz-Organization/currency-converter?color=blue&style=flat-square)
 ![](https://img.shields.io/github/v/release/Gmaz-Organization/currency-converter?style=flat-square&color=red)
 
 # currency-converter
